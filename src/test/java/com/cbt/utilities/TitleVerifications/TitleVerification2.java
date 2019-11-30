@@ -1,5 +1,6 @@
-package com.cbt.utilities;
+package com.cbt.utilities.TitleVerifications;
 
+import com.cbt.utilities.BrowserFactory;
 import org.openqa.selenium.WebDriver;
 
 import java.util.Arrays;

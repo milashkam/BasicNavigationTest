@@ -1,4 +1,4 @@
-package com.cbt.tests;
+package com.cbt.tests.homework1;
 
 import com.cbt.utilities.BrowserFactory;
 import com.cbt.utilities.StringUtility;
